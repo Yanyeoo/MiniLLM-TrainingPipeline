@@ -1,0 +1,7 @@
+model/__pycache__
+website/
+docs-minimind/
+out/
+checkpoints/
+# Ignore all JSONL dataset files in this folder and subfolders
+dataset/*.jsonl
